@@ -39,7 +39,7 @@ git branch -M main
 Step 7
 
 ```bash
-git remote add origin https://github.com/chrismjohnston/my-new-hugo-blog.git
+git remote add origin https://github.com/<Your-GitHub-username>/my-new-hugo-blog.git
 ```
 
 Step 8 
