@@ -4,7 +4,7 @@ description: "The musings of Chris Johnston. A former SEO-guy turned developer t
 ---
 <img
   id="foxy"
-  src="themes/hugo-classic/exampleSite/static/images/ChrisJohnston.jpg height=250px width=250px"
+  src="/images/ChrisJohnston.jpg height=250px width=250px"
   alt="A foxy face">
 
 ## Welcome, friend
