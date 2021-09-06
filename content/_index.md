@@ -1,10 +1,10 @@
 ---
-title: Home
-description: "The personal writings and expressions of Grayfox, otherwise known as you too and everyone else. It is a loving and silly place."
+title: ChrisJohnton.dev
+description: "The musings of Chris Johnston. A former SEO-guy turned developer trying to find his place in the development world."
 ---
 <img
   id="foxy"
-  src="/images/grayf0x.jpg"
+  src="themes/hugo-classic/exampleSite/static/images/ChrisJohnston.jpg"
   alt="A foxy face">
 
 ## Welcome, friend
