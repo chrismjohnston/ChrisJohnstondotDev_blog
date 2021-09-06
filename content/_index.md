@@ -16,7 +16,10 @@ Born in [New Orleans](https://en.wikipedia.org/wiki/New_Orleans), **Chris** has 
 
 “It gave a tremendous level of self-confidence, that through exploration and learning one could understand seemingly very complex things in one’s environment.” – Steve Jobs
 
-<img src="/images/cat_code.gif">
+<img 
+  id="cat-gif"
+  src="/images/cat_code.gif"
+  alt="cat typing gif">
 
 
 ---
