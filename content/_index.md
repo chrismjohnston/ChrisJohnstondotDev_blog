@@ -3,22 +3,21 @@ title: ChrisJohnton.dev
 description: "The musings of Chris Johnston. A former SEO-guy turned developer trying to find his place in the development world."
 ---
 <img
-  id="foxy"
-  src="/images/ChrisJohnston.jpg height=250px width=250px"
-  alt="A foxy face">
+  id="chris-image"
+  src="/images/ChrisJohnston.webp"
+  alt="Picture of Chris Johnston">
 
 ## Welcome, friend
 
-### :purple_heart: :earth_africa: :purple_heart:
+### 👨‍💻 💻 📱
 
 
-is this working!
+Born in [New Orleans](https://en.wikipedia.org/wiki/New_Orleans), **Chris** has spent over two decades fiddling with things on the Internet. He built his first website in 1994 and has been experimenting ever since.
 
-Born in [The Abyss](https://en.wikipedia.org/wiki/Edmonton), **Grayfox** - also known as Zerkle Snorp - has spent over two decades fiddling with things on the Internet. Today he does nothing, so stop asking.
+“It gave a tremendous level of self-confidence, that through exploration and learning one could understand seemingly very complex things in one’s environment.” – Steve Jobs
 
-Their greatest joys are darkness and its quietudes.
+<img src="/images/cat_code.gif">
 
-<img src="/images/partywizard.gif">
 
 ---
 
