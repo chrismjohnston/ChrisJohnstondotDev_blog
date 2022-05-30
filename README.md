@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/093cf292-2fed-44ac-8a6e-be9fd452e3db/deploy-status)](https://app.netlify.com/sites/hungry-bell-ae2a9d/deploys)
 # Hugo Site Build Notes
 
 Step 1
